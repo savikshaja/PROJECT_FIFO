@@ -36,10 +36,6 @@ A parameterized single-clock synchronous FIFO implemented in Verilog. The design
 │   ├── tests
 │   └── top.sv
 │
-├── sim/
-│   ├── run.do
-│   └── compile.do
-│
 └── README.md
 ```
 
